@@ -1,0 +1,13 @@
+This is a a text file named input and it is used for getting the word count frequency.
+the 3
+of 3
+frequency 2
+counting 1
+number 1
+file 1
+in 1
+one 1
+words 1
+count 1
+program 1
+word 1

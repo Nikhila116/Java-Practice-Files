@@ -1,0 +1,1 @@
+This is a a text file named input and it is used for getting the word count frequency.

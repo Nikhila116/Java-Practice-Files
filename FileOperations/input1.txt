@@ -1,0 +1,18 @@
+counting 
+the 
+word 
+frequency 
+of
+ program
+ number 
+one
+
+frequency 
+of 
+of 
+the 
+words
+ count 
+in 
+the 
+file
